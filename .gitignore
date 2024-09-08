@@ -1,0 +1,10 @@
+node_modules/.env
+__pycache__/
+_secret_auth_.json
+node_modules/
+.venv/
+.env
+.wwebjs_cache/
+.DS_Store
+*.pdf
+*.PDF
